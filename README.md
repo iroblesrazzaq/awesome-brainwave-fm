@@ -1,4 +1,6 @@
-## EEG Foundation Models (scalp EEG only)
+# Awesome Brainwave Foundation Models
+
+## EEG Foundation Models
 
 ### 2025
 - **CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding**  
