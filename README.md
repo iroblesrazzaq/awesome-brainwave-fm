@@ -106,3 +106,22 @@ If you have any suggestions or want to contribute, please open an issue or submi
 - **NeuroTTT: Bridging Pretraining-Downstream Task Misalignment in EEG Foundation Models via Test-Time Training**
 
   [paper](https://arxiv.org/abs/2509.26301) · *Wang, Deng, Bao, Zhan, Duan* (arXiv 2025; [arXiv:2509.26301](https://arxiv.org/abs/2509.26301)) · [code](https://github.com/wsl2000/NeuroTTT)
+
+---
+
+Reviews of EEG + brainwave FMs
+
+https://arxiv.org/pdf/2602.03269
+https://arxiv.org/html/2507.11783v3
+
+
+---
+
+## Not added yet:
+- Brant
+- CEReBrO
+- todo: add all them
+
+
+
+
