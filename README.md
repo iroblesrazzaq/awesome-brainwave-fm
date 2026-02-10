@@ -14,6 +14,10 @@ If you have any suggestions or want to contribute, please open an issue or submi
 - **CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding**  
   [paper](https://arxiv.org/abs/2506.23075) · — *Zhou et al.* (NeurIPS 2025; [arXiv:2506.23075](https://arxiv.org/abs/2506.23075)) · [NeurIPS page](https://neurips.cc/virtual/2025/poster/117249) · [code](https://github.com/yuchen2199/CSBrain)
 
+- **CBraMoD: A Criss-Cross Brain Foundation Model for EEG Decoding**  
+  [paper](https://arxiv.org/abs/2412.07236) · — *Wang et al.* (ICLR 2025; [OpenReview](https://openreview.net/forum?id=NPNUHgHF2w)) · [code](https://github.com/wjq-learning/CBraMod)
+
+
 - **FEMBA: Efficient and Scalable EEG Analysis with a Bidirectional Mamba Foundation Model**  
   [paper](https://arxiv.org/abs/2502.06438) · — *Tegon et al.* (arXiv preprint; [arXiv:2502.06438](https://arxiv.org/abs/2502.06438))
 
