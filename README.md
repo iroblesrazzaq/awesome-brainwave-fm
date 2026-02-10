@@ -15,7 +15,7 @@ If you have any suggestions or want to contribute, please open an issue or submi
   [paper](https://arxiv.org/abs/2506.23075) · — *Zhou et al.* (NeurIPS 2025; [arXiv:2506.23075](https://arxiv.org/abs/2506.23075)) · [NeurIPS page](https://neurips.cc/virtual/2025/poster/117249) · [code](https://github.com/yuchen2199/CSBrain)
 
 - **CBraMoD: A Criss-Cross Brain Foundation Model for EEG Decoding**  
-  [paper](https://arxiv.org/abs/2412.07236) · — *Wang et al.* (ICLR 2025; [OpenReview](https://openreview.net/forum?id=NPNUHgHF2w)) · [code](https://github.com/wjq-learning/CBraMod)
+  [paper](https://arxiv.org/abs/2412.07236) · — *Wang et al.* (ICLR 2025; [arXiv](https://arxiv.org/abs/2412.07236)) · [code](https://github.com/wjq-learning/CBraMod)
 
 
 - **FEMBA: Efficient and Scalable EEG Analysis with a Bidirectional Mamba Foundation Model**  
