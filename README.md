@@ -1,4 +1,12 @@
-# Awesome Brainwave Foundation Models
+# Awesome EEG Foundation Models
+
+A curated list of foundation models for brain signal foundation models, particularly EEG. This repository compiles SOTA EEG foundation models for analyzing, decoding, and predicting neural activity across different species, brain regions, and modalities. Although the focus will be on foundation models themselves, EEG FM related work may be included.
+
+This repository is a work in progress and will be updated regularly. Current models are limited to EEG and multimodal EEG + X modalities. This is by no means a comprehensive list of all models.
+
+If you have any suggestions or want to contribute, please open an issue or submit a pull request.
+
+
 
 ## EEG Foundation Models
 
